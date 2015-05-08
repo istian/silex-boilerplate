@@ -1,0 +1,14 @@
+{
+    "name": "iamist/silex-boilerplate",
+    "description": "An application build with PHP lightweight framework SILEX.",
+    "authors": [
+        {
+            "name": "iamist",
+            "email": "vicentechristian@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "silex/silex": "^1.2"
+    }
+}
