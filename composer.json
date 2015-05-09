@@ -7,7 +7,15 @@
             "email": "vicentechristian@gmail.com"
         }
     ],
-    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Application\\" : "app\\src\\Application",
+            "Todo\\" : "app\\src\\Todo"
+        }
+    },
+    "require": {
+        "twig/twig": "^1.18"
+    },
     "require-dev": {
         "silex/silex": "^1.2"
     }
