@@ -14,7 +14,8 @@
         }
     },
     "require": {
-        "twig/twig": "^1.18"
+        "twig/twig": "^1.18",
+        "ziadoz/silex-capsule": "^1.2"
     },
     "require-dev": {
         "silex/silex": "^1.2"
