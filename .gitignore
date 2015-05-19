@@ -39,3 +39,4 @@
 .phpintel
 .idea
 /node_modules
+.tmp
